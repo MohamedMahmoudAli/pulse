@@ -80,7 +80,7 @@ lib/
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/omarshawkey13/pulse.git
+    git clone https://github.com/MohamedMahmoudAli/pulse
     cd pulse
     ```
 
